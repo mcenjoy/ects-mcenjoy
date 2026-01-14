@@ -1,0 +1,12 @@
+{
+  "name": "ects-mcenjoy",
+  "version": "1.0.0",
+  "description": "Converts scores from the 100-point grading system to the ECTS format",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Michael",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
